@@ -1,0 +1,31 @@
+.cardbackground{
+    background: linear-gradient(102.4deg, #6CBEDD 5.64%, rgba(121, 207, 240, 0.7) 92.95%);
+}
+
+.card-shadow{
+    width: 400px;
+height: 200px;
+    box-shadow: 8px 5px 30px rgba(131, 131, 131, 0.15);
+border-radius: 30px;
+}
+
+.content{
+    font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 44px;
+}
+
+
+.number{
+    font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 55px;
+color: #333333;
+}
+.back{
+    background-image: url("../public/image/Vector.png");
+    background-repeat: no-repeat;
+    background-position: 90% 70%;
+}
